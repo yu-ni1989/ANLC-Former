@@ -1,4 +1,20 @@
 This is the code for the paper:
-Huan Ni, Yubin Zhao, Haiyan Guan, Cheng Jiang, Yongshi Jie, Xing Wang, Yiyang Shen. Cross-Resolution Land Cover Classification Using Outdated Products and Transformers.
+@misc{ni2024crossresolution,
+      title={Cross-Resolution Land Cover Classification Using Outdated Products and Transformers}, 
+      author={Huan Ni and Yubin Zhao and Haiyan Guan and Cheng Jiang and Yongshi Jie and Xing Wang and Yiyang Shen},
+      year={2024},
+      eprint={2402.16001},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+https://arxiv.org/abs/2402.16001
 
-Code is coming soon. 
+If you use the code, please cite the paper above. 
+
+The code is constructed based on several publicly available codes including:
+1. https://www.researchgate.net/publication/363124823_Breaking_the_resolution_barrier_A_low-to-high_network_for_large-scale_high-resolution_land-cover_mapping_using_low-resolution_labels
+2. https://github.com/calebrob6/dfc2021-msd-baseline#results
+3. https://github.com/calebrob6/dfc2021-msd-baseline
+
+The other employed resources are refered in the comments of the code files. 
+
