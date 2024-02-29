@@ -11,10 +11,14 @@ https://arxiv.org/abs/2402.16001
 
 If you use the code, please cite the paper above. 
 
-The code is constructed based on several publicly available codes including:
+The repository is constructed based on several publicly available codes including:
 1. https://www.researchgate.net/publication/363124823_Breaking_the_resolution_barrier_A_low-to-high_network_for_large-scale_high-resolution_land-cover_mapping_using_low-resolution_labels
 2. https://github.com/calebrob6/dfc2021-msd-baseline#results
 3. https://github.com/calebrob6/dfc2021-msd-baseline
+4. https://github.com/rayleizhu/BiFormer
+5. https://github.com/yu-ni1989/RDNet
 
-The other employed resources are refered in the comments of the code files. 
+
+
+
 
