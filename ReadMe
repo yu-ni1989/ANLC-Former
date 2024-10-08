@@ -1,3 +1,8 @@
+The paper has been formally accepted. 
+During the revision process after the reviewers gave major revision suggestions, a few details were modified and the corresponding code was also slightly modified. 
+We will organize the code to make it more concise and re-upload it soon.
+
+
 This is the code for the paper:
 @misc{ni2024crossresolution,
       title={Cross-Resolution Land Cover Classification Using Outdated Products and Transformers}, 
